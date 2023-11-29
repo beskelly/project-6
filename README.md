@@ -1,4 +1,8 @@
 # UOCIS322 - Project 6 #
+Blake Skelly  
+University of Oregon  
+CS 322 F23  
+
 Brevet time calculator with MongoDB, and a RESTful API!
 
 Read about MongoEngine and Flask-RESTful before you start: [http://docs.mongoengine.org/](http://docs.mongoengine.org/), [https://flask-restful.readthedocs.io/en/latest/](https://flask-restful.readthedocs.io/en/latest/).
